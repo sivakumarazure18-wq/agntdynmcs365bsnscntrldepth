@@ -1,0 +1,24 @@
+[
+    {
+        "Name": "Dynamic-365-Business-Central",
+        "Language": "English",
+        "Files": [
+          {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/agntdynmcs365bsnscntrldepth/refs/heads/main/masterdoc/getting-started-page.md",
+            "Order": 1
+          },
+          {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/agntdynmcs365bsnscntrldepth/refs/heads/main/Lab%201/Lab%201%20-%20Accelerate%20Purchase%20Order%20Review%20with%20Copilot%20in%20Dynamics%20365%20Business%20Central.md",
+            "Order": 2
+          },
+          {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/agntdynmcs365bsnscntrldepth/refs/heads/main/Lab%202/Lab%202%20-%20Vendor%20Invoice%20Automation%20for%20SMB%20Finance%20Teams%20with%20Copilot%20in%20Dynamics%20365%20Business%20Central.md",
+            "Order": 3
+          },
+          {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/agntdynmcs365bsnscntrldepth/refs/heads/main/Lab%203/Lab%203%20-%20Improve%20Order%20Fulfillment%20and%20Customer%20Satisfaction%20using%20Suggest%20substitute%20items%20and%20summarize%20records%20with%20Copilot.md",
+            "Order": 4
+          }
+        ]
+    }
+]

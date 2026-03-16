@@ -1,0 +1,24 @@
+[
+    {
+        "Name": "Dynamic-365-Business-Central",
+        "Language": "English",
+        "Files": [
+          {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/agntdynmcs365bsnscntrldepth/refs/heads/main/masterdoc/getting-started-page.md",
+            "Order": 1
+          },
+          {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/agntdynmcs365bsnscntrldepth/refs/heads/main/Lab%204/Lab%204%20-%20Automating%20Sales%20Order%20Capture%20for%20Faster%20Order%20Processing%20with%20the%20Sales%20Order%20Agent.md",
+            "Order": 2
+          },
+          {
+            "RawFilePath": "https://github.com/CloudLabsAI-Azure/agntdynmcs365bsnscntrldepth/blob/main/Lab%205/Lab%205%20-%20Map%20e-documents%20to%20purchase%20order%20lines%20with%20Copilot%20in%20Dynamics%20365%20Business%20Central.md",
+            "Order": 3
+          },
+          {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/agntdynmcs365bsnscntrldepth/refs/heads/main/Lab%206/Lab%206%20-%20Creating%20and%20Enhancing%20Item%20Marketing%20Text%20with%20Copilot%20in%20Business%20Central.md",
+            "Order": 4
+          }
+        ]
+    }
+]
