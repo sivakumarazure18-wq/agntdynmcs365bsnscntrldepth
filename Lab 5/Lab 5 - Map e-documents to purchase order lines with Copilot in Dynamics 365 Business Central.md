@@ -15,119 +15,114 @@ matching options available within the e-document mapping process.
 
 ## Task 1: Open Business Central Admin Center and Access Sandbox Environment
 
-1.  Navigate to the Business Central home page.
+1. Navigate to the Business Central home page.
 
-2.  From the top bar, select **Settings**, and then choose **Admin
-    Center**.
+2. From the top bar, select **Settings**, and then choose **AdminCenter**.
 
-> ![](./media/image1.png)
+   ![](./media/image1.png)
 
-3.  In the Admin Center, locate and select the **cronus_sandbox**
-    environment.
+3. In the Admin Center, locate and select the **cronus_sandbox** environment.
 
-> ![](./media/image2.png)
+   ![](./media/image2.png)
 
-4.  Click on the **Environment URL** to open the selected sandbox
-    environment.
+5. Click on the **Environment URL** to open the selected sandbox environment.
 
-> ![](./media/image3.png)
+   ![](./media/image3.png)
 
 ## Task 2: Generate Demo Data Using Contoso Demo Tool
 
-1.  Once inside the sandbox environment, press **Alt + Q** on the
-    keyboard to open the search.
+1. Once inside the sandbox environment, press **Alt + Q** on the keyboard to open the search.
 
-2.  In the search field, enter **Contoso Demo Tool** and select it from
-    the results.
+2. In the search field, enter **Contoso Demo Tool** and select it from the results.
 
-> ![](./media/image4.png)
+   ![](./media/image4.png)
 
-3.  In the Contoso Demo Tool page, locate the **Data Name** field.
+3. In the Contoso Demo Tool page, locate the **Data Name** field.
 
-4.  Select the vertical menu option for the Name field and choose
+4. Select the vertical menu option for the Name field and choose
     **Select More**.
 
-> ![](./media/image5.png)
+   ![](./media/image5.png)
 
-5.  From the list of available demo data:
+5. From the list of available demo data:
 
     - Select all data options
 
     - **Do not select**: Subscription and Billing
 
-6.  After selecting the required demo data, click **Generate** from the
+6. After selecting the required demo data, click **Generate** from the
     top of the page.
 
-> ![](./media/image6.png)
+   ![](./media/image6.png)
 
-7.  When prompted, click **Yes** to confirm the generation process.
+7. When prompted, click **Yes** to confirm the generation process.
 
-> ![](./media/image7.png)
+   ![](./media/image7.png)
 
-8.  Click **OK** once the process is completed successfully.
+8. Click **OK** once the process is completed successfully.
 
-> ![](./media/image8.png)
+   ![](./media/image8.png)
 
 ## Task 3: Open Linked Purchase Orders from E-Document Activities
 
-1.  Navigate back to the Business Central home page.
+1. Navigate back to the Business Central home page.
 
-> ![](./media/image9.png)
+   ![](./media/image9.png)
 
-2.  Scroll down to locate the **E-Document Activities** section.
+2. Scroll down to locate the **E-Document Activities** section.
 
-3.  Select **Linked Purchase Orders**.
+3. Select **Linked Purchase Orders**.
 
-> ![](./media/image10.png)
+   ![](./media/image10.png)
 
-4.  Review the list of available purchase orders created from demo data.
+4. Review the list of available purchase orders created from demo data.
 
 ## Task 4: Map E-Document Lines for the First Purchase Order
 
-1.  Select the **first purchase order** from the list.
+1. Select the **first purchase order** from the list.
 
-2.  On the purchase order page, choose **Map E-Document Lines**.
+2. On the purchase order page, choose **Map E-Document Lines**.
 
-> ![](./media/image11.png)
+   ![](./media/image11.png)
 
-3.  Copilot automatically matches the e-document lines with the purchase
+3. Copilot automatically matches the e-document lines with the purchase
     order lines.
 
-4.  Review the suggested matches.
+4. Review the suggested matches.
 
-5.  Select **Keep it** to save the matched purchase order.
+5. Select **Keep it** to save the matched purchase order.
 
-> ![](./media/image12.png)
+   ![](./media/image12.png)
 
-6.  Select **Back** to return to the purchase order list.
+6. Select **Back** to return to the purchase order list.
 
-> ![](./media/image13.png)
+   ![](./media/image13.png)
 
 ## Task 5: Explore E-Document Mapping Options with Another Purchase Order
 
-1.  Open the **next purchase order** from the list to further explore
+1. Open the **next purchase order** from the list to further explore
     e-document mapping.
 
-> ![](./media/image14.png)
+   ![](./media/image14.png)
 
-2.  On the purchase order page, select **Map E-Document Lines** from the
+2. On the purchase order page, select **Map E-Document Lines** from the
     top bar.
 
-> ![](./media/image15.png)
+   ![](./media/image15.png)
 
-3.  Review the matching results:
+3. Review the matching results:
 
     - Auto-matched lines
 
     - Copilot-matched lines
 
-4.  Select **Discard it** to explore alternative matching options.
+4. Select **Discard it** to explore alternative matching options.
 
-> ![](./media/image16.png)
+   ![](./media/image16.png)
 
 ## Task 6: Match E-Document Lines Using Copilot
 
-1.  On the purchase order matching page, review the available options:
+1. On the purchase order matching page, review the available options:
 
     - Match with Copilot
 
@@ -135,19 +130,19 @@ matching options available within the e-document mapping process.
 
     - Match automatically
 
-> ![](./media/image17.png)
+   ![](./media/image17.png)
 
-2.  For this lab, select **Match with Copilot**.
+2. For this lab, select **Match with Copilot**.
 
-> ![](./media/image18.png)
+   ![](./media/image18.png)
 
-3.  Copilot matches all e-document lines with the purchase order lines.
+3. Copilot matches all e-document lines with the purchase order lines.
 
-4.  Review the matching suggestions carefully.
+4. Review the matching suggestions carefully.
 
-5.  Select **Keep it** to save the final mapping.
+5. Select **Keep it** to save the final mapping.
 
-> ![](./media/image19.png)
+   ![](./media/image19.png)
 
 **Conclusion**
 
